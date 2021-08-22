@@ -18,8 +18,6 @@ link-citations: yes
 <img src="vizdata-hex.png" class="cover" width="240" height="240"/>This is the homepage for STA 313 - Advanced Data Visualization.
 All course materials will be posted on this site.
 
-<br>
-
 -   Instructor: [Mine Çetinkaya-Rundel](http://mine-cr.com/)
 
 -   Course meetings:
@@ -27,9 +25,9 @@ All course materials will be posted on this site.
     -   Lectures: Wednesdays and Fridays, 12:00 - 13:15, Perkins LINK 087 (Classroom 3)
     -   Labs: Mondays, 12:00 - 13:15, Perkins LINK 087 (Classroom 3)
 
--   Syllabus: click here
+-   Syllabus: **TO DO: ADD DIRECT LINK**
 
--   Upcoming lectures and assignments: click here
+-   Course materials: **TO DO: ADD DIRECT LINK**
 
 <br><br><br><br>
 
