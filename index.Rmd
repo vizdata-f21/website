@@ -21,7 +21,7 @@ Evaluate the clarity, effectiveness, and honesty of visualization choices and im
 Discuss the role of statistical graphics in modeling and inference.
 Do it all in R, reproducibly, and using a variety of modern data visualization packages.
 
-<br><br><br>
+<br><br><br><br>
 
 ## License {.unnumbered}
 
