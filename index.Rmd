@@ -15,7 +15,7 @@ link-citations: yes
 
 # Advanced Data Visualization {.unnumbered}
 
-<img src="vizdata-hex.png" class="cover" width="240" height="240"/>This is the homepage for STA 313 - Advanced Data Visualization.
+<img src="images/vizdata-hex.png" class="cover" width="240" height="240"/>This is the homepage for STA 313 - Advanced Data Visualization.
 All course materials will be posted on this site.
 
 -   Instructor: [Mine Çetinkaya-Rundel](http://mine-cr.com/)

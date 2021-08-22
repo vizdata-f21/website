@@ -8,6 +8,7 @@ rmd_files: [
   "index.Rmd",
   
   "syllabus.Rmd",
+  "teaching-team.Rmd",
   
   "access.Rmd",
   "troubleshooting.Rmd",
