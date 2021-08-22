@@ -1,0 +1,101 @@
+/* custom environments */
+
+.slides {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.slides:before {
+  content: "\f108";
+  font-family: FontAwesome;
+  color: #444B54;
+  left: 5px;
+  position: absolute;
+}
+
+
+.reading {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border: 1pt solid #d8d8d8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("book.png");
+}
+.reading:before {
+  content: "Reading: ";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  color: #00539B;
+}
+.reading ul li {
+  list-style-type: square;
+}
+
+.slide-deck {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #00539B;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("slide-deck.png");
+}
+
+.guest-lecture {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt dotted #a8a8a8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("microphone.png");
+}
+
+.video {
+  padding: 0em 1em 0em 2em;
+  position: relative;
+  font-size: 0.9em;
+}
+.video:before {
+  content: "\f16a";
+  font-family: FontAwesome;
+  color: #c4302b;
+  left: 5px;
+  position: absolute;
+}
+
+.tutorial{
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  border: 1pt solid #d8d8d8;
+  background: #ffffff 5px center/3em no-repeat;
+  background-image: url("tutorial.png");
+}
+
+/* overwrite bs4_book style */
+
+img.cover {
+  box-shadow: none;
+}
+
+.inline-figure {
+  border: none;
+}
+
+/* overwrite default style */
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}

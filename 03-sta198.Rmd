@@ -1,0 +1,11 @@
+# (PART) Sections {.unnumbered}
+
+# STA 198 {#sta198 .unnumbered}
+
+**Introduction to Global Health Data Science (STA 198 / GLHLTH 298)**
+
+In Fall 2021, STA 198 is taught by [Prof. Amy H. Herring](https://scholars.duke.edu/person/Amy.Herring).
+
+The TAs for the course are Jackie Du, Eli Feder, Phuc Nguyen, and Chris Yang.
+
+Go to the [**STA 198/GLHLTH 298 course website**](https://sta198f2021.github.io/website/) for course specific information.

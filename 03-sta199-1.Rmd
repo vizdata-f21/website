@@ -1,0 +1,11 @@
+# STA 199 - Section 1 {#sta199-1 .unnumbered}
+
+**Introduction to Data Science and Statistical Thinking (STA 199-001)**
+
+In Fall 2021, this section of STA 199 is taught by Prof. Alexander Fisher.
+
+The TAs for the course are Zheyuan (Zoey) Liu, Michael Sarkis, Christine (Yueming) Shen, Diane Kim, Sara Mehta, and Blossom Mojekwu.
+
+Go to the [**STA 199 - Section 1 course website**]() for course specific information.
+
+**TO DO:** Add course website link

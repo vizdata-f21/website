@@ -1,0 +1,33 @@
+---
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+title: "STA 313"
+author: "Mine Çetinkaya-Rundel"
+description: "Course website for STA 313 - Advanced Data Visualization"
+date: "`r Sys.Date()`"
+github-repo: vizdata-f21/website
+twitter-handle: minebocek
+cover-image: vizdata-fex.png
+url: 'https\://vizdata.org/'
+documentclass: book
+link-citations: yes
+---
+
+# Advanced Data Visualization {.unnumbered}
+
+<img src="vizdata-hex.png" class="cover" width="240" height="240"/>This course is all about the art and science of visualizing data.
+Learn about the what (types of visualizations, tools to produce them), the how (start with a design, pre-process the data, map it to graphical attributes, make strategic decisions about visual encoding, post-process for readability and visual appeal), and the why (the theory behind the grammar of graphics).
+Evaluate the clarity, effectiveness, and honesty of visualization choices and improve (your and others') visualizations through an iterative design process.
+Discuss the role of statistical graphics in modeling and inference.
+Do it all in R, reproducibly, and using a variety of modern data visualization packages.
+
+<br><br><br>
+
+## License {.unnumbered}
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
+Visit [here](https://github.com/dukestatsciintrods/blob/master/LICENSE.md) for more information about the license.
+
+## Acknowledgements {.unnumbered}
+
+...

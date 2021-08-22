@@ -1,0 +1,6 @@
+# Troubleshooting {#troubleshooting .unnumbered}
+
+-   If you're having difficulty launcging an RStudio session from your reserved container, go to [status.oit.duke.edu](https://status.oit.duke.edu/) and scroll down to **Teaching and Learning Tools**. Under this heading you'll find an entry called *Container Manager (CMGR Coursework Containers)*.
+
+    -   If the status shows something other than `Operational`, this means there is a known incident with the containers. **TO DO: Add instructions for what to do, e.g., contact prof/R TA, etc.**
+    -   If the status shows `Operational`, this means the system is expected to be working. Check your internet connection, if need be, restart your computer to ensure a fresh new connection. If your issue persists... **TO DO: Add instructions for what to do, e.g., contact prof/R TA, etc.**

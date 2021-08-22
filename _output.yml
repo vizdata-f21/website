@@ -1,0 +1,18 @@
+bookdown::bs4_book:
+  css: [css/vizdata.css, css/fontawesome/css/all.css]
+  theme:
+    primary: "#B8ABC9"
+  repo: https://github.com/vizdata-f21/website
+
+bookdown::gitbook:
+  css: [css/style.css, css/vizdata.css, css/fontawesome/css/all.css]
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Advanced Data Visualization</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit:
+      link: https://github.com/vizdata-f21/website/edit/master/%s
+      text: "Edit"
