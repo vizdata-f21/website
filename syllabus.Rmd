@@ -7,3 +7,113 @@ Learn about the what (types of visualizations, tools to produce them), the how (
 Evaluate the clarity, effectiveness, and honesty of visualization choices and improve (your and others') visualizations through an iterative design process.
 Discuss the role of statistical graphics in modeling and inference.
 Do it all in R, reproducibly, and using a variety of modern data visualization packages.
+
+**TO DO:** Add course specific info here
+
+## Behaviour and Health
+
+### Behavior and Community Standards
+
+All students must adhere to the [Duke Community Standard (DCS)](https://trinity.duke.edu/undergraduate/academic-policies/community-standard-student-conduct): Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, and accountability.
+Citizens of this community commit to reflect upon these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.
+
+To uphold the Duke Community Standard:
+
+Students affirm their commitment to uphold the values of the Duke University community by signing a pledge that states:
+
+-   I will not lie, cheat, or steal in my academic endeavors;
+-   I will conduct myself honorably in all my endeavors;
+-   I will act if the Standard is compromised
+
+Regardless of course delivery format, it is the responsibility of all students to understand and follow Duke policies regarding academic integrity, including doing one's own work, following proper citation of sources, and adhering to guidance around group work projects.
+Ignoring these requirements is a violation of the Duke Community Standard.
+If you have any questions about how to follow these requirements, please contact Jeanna McCullers ([jeanna.mccullers\@duke.edu](mailto:jeanna.mccullers@duke.edu){.email}), Director of the Office of Student Conduct.
+
+### Mental Health and Wellness Resources
+
+Student mental health and wellness is of primary importance at Duke, and the university offers resources to support students in managing daily stress and self-care.
+Duke offers several resources for students to seek assistance on coursework and to nurture daily habits that support overall well-being, some of which are listed below:
+
+-   The Academic Resource Center: (919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/),
+-   DuWell: (919) 681-8421, [duwell\@studentaffairs.duke.edu](mailto:duwell@studentaffairs.duke.edu){.email}, or [studentaffairs.duke.edu/duwell](https://studentaffairs.duke.edu/duwell)
+
+If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to help you through difficult times.Duke encourages all students to access theseresources.
+
+-   **DukeReach.** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance. [studentaffairs.duke.edu/dukereach](http://studentaffairs.duke.edu/dukereach)
+-   **Counseling and Psychological Services (CAPS).** CAPS services include individual, group, and couples counseling services, health coaching, psychiatric services, and workshops and discussions. (919) 660-1000. [studentaffairs.duke.edu/caps](https://studentaffairs.duke.edu/caps)
+-   **Blue Devils Care.** A convenient and cost-effective way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling. [bluedevilscare.duke.edu](https://bluedevilscare.duke.edu)
+-   **Two-Click Support.** Duke Student Government and DukeReach partnership that connects students to help in just two clicks. [bit.ly/TwoClickSupport](https://bit.ly/TwoClickSupport)
+
+### Academic SupportResources
+
+The Academic Resource Center (the ARC) offers services to support students academically during their undergraduate careers at Duke.
+The ARC can provide support with time management, academic skills and strategies, unique learning styles, peer tutoring, learning consultations, learning communities, and more.
+ARC services are available free to any Duke undergraduate student, in any year, studying in any discipline.
+(919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/).
+
+## Other domains
+
+### Tech Assistance and Course Costs
+
+#### Technology Accommodations:
+
+Students with demonstrated high financial need who have limited access to computers may request assistance in the form of loaner laptops.
+For new Fall 2021 technology assistance requests, please go [here](https://duke.qualtrics.com/jfe/form/SV_24Q2Iv1edXSwt5s).
+Please note that supplies are limited.
+
+**TO DO: Say something about containers**\*
+
+#### Course Materials Costs:
+
+There are no costs associated with this course.
+All readings will come from freely available, open resources (open-source textbooks, journal articles, etc.).
+
+### Accessibility
+
+[The Student Disability Access Office (SDAO)](https://access.duke.edu/students) is available to ensure that students are able to engage with their courses and related assignments.
+Students should be in touch with the Student Disability Access Office to request or update accommodations under these circumstances.
+Zoom has the ability to provide live closed captioning, which we will turn on for any Zoom sessions associated with the course.
+If you are not seeing this during a Zoom session, please let me know immediately.
+We might have forgotten to turn it on (and will correct promptly) or you might have a setting you need to enable (and we can walk you through it).
+
+### Inclement Weather and Attendance Policies
+
+#### Inclement Weather Policy
+
+In the event of inclement weather or other connectivity-related events that prohibit class attendance, I will notify you how we will make up missed course content and work.
+Asynchronous catch-up methods may apply.
+
+**TO DO: Mention recordings!!!**
+
+#### Flexible Attendance Policy
+
+Responsibility for class attendance rests with individual students.
+Since regular and punctual class attendance is expected, students must accept the consequences of failure to attend.
+However, in recognition of possible extra personal and academic stress and health concerns this semester, I will grant an additional excused absence, provided you discuss the absence with me and agree to make up missed work.
+More details on Trinity attendance policies are available [here](https://trinity.duke.edu/undergraduate/academic-policies/class-attendance-and-missed-work).
+
+**TO DO: Add something about group work!!!**
+
+#### Attendance Policy Related to COVID Symptoms, Exposure, or Infection
+
+Student health, safety, and well-being are the university's top priorities.
+To help ensure your well-being and the well-being of those around you, please do not come to classif you have symptoms related to COVID-19, have had a known exposure to COVID-19, or have tested positive for COVID-19.
+If any of these situations apply to you, you must follow university guidance related to the ongoing COVID-19 pandemic and current health and safety protocols.
+If you are experiencing any COVID-19 symptoms, contact student health at 919-681-9355.
+To keep the university community as safe and healthy as possible, you will be expected to follow these guidelines.
+Please reach out to me and your academic dean as soon as possible if you need to quarantine or isolate so that we can discuss arrangements for your continued participation in class.
+
+### Technical Support and Video Recording Rules
+
+#### Assistance with Zoom or Sakai
+
+For technical help with Sakai or Zoom, contact the Duke OIT Service Desk at [oit.duke.edu/help](https://oit.duke.edu/help).
+You can also access the self-service help documentation for Zoom [here](https://oit.duke.edu/help/articles/kb0029318) and for Sakai [here](https://sakai-duke.screenstepslive.com/s/sakai_support).
+
+#### Rules for Video Recording Course Content
+
+Student recording of lectures must be permitted by the instructor and shall be for private study only.
+Such recordings shall not be distributed to anyone else without authorization by the instructor whose lecture has been recorded.
+However, the instructor may arrange through the Office of Information Technology to make recorded lectures available to students enrolled in the class on such terms and conditions as he or she prescribes.
+Unauthorized distribution is a cause for disciplinary action by the Judicial Board.
+The full policy on recording of lectures falls under the Duke University Policy on Intellectual Property Rights, available at [provost.duke.edu/sites/default/files/FHB_App_P.pdf](https://provost.duke.edu/sites/default/files/FHB_App_P.pdf).
