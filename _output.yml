@@ -1,7 +1,7 @@
 bookdown::bs4_book:
   css: [css/vizdata.css, css/fontawesome/css/all.css]
   theme:
-    primary: "#B8ABC9"
+    primary: "#a493ba"
   repo: https://github.com/vizdata-f21/website
 
 bookdown::gitbook:
