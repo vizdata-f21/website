@@ -1,0 +1,9 @@
+# (PART) Course information {.unnumbered}
+
+# Syllabus
+
+This course is all about the art and science of visualizing data.
+Learn about the what (types of visualizations, tools to produce them), the how (start with a design, pre-process the data, map it to graphical attributes, make strategic decisions about visual encoding, post-process for readability and visual appeal), and the why (the theory behind the grammar of graphics).
+Evaluate the clarity, effectiveness, and honesty of visualization choices and improve (your and others') visualizations through an iterative design process.
+Discuss the role of statistical graphics in modeling and inference.
+Do it all in R, reproducibly, and using a variety of modern data visualization packages.
