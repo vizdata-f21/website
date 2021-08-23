@@ -85,15 +85,12 @@ See [Late work policy] for policies on late work.
 
 In summary, your course grade will be comprised of the following:
 
-+-----------------------------------+----------------------------------+
-| Reading quizzes                   | 12%                              |
-+-----------------------------------+----------------------------------+
-| Homework assignments              | 48%                              |
-+-----------------------------------+----------------------------------+
-| Project 1                         | 15%                              |
-+-----------------------------------+----------------------------------+
-| Project 2                         | 25%                              |
-+-----------------------------------+----------------------------------+
+|                      |     |
+|----------------------|-----|
+| Reading quizzes      | 12% |
+| Homework assignments | 48% |
+| Project 1            | 15% |
+| Project 2            | 25% |
 
 The exact ranges for letter grades will be curved and cutoffs will be determined at the end of the semester.
 The more evidence there is that the class has mastered the material, the more generous the curve will be.
@@ -258,7 +255,8 @@ Policy on late work depends on the particular course component:
 
 -   Reading quizzes: Late quizzes are not accepted and there are no make ups for missed quizzes.
 
--   Homework assignments: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, email me to reopen your repository.
+-   Homework assignments: GitHub repositories will be closed to contributions at the deadline.
+    If you need to submit your work late, email me to reopen your repository.
 
     -   Late, but same day (before midnight): -10% of available points
 
