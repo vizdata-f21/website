@@ -10,14 +10,14 @@ Mine's work focuses on innovation in statistics and data science pedagogy, with 
 
 ## Teaching assistants
 
-<img src="images/jennifer.png" class="cover" width="240" height="240"/> **Jennifer Kampe** is a PhD student in Statistical Science.
-Jennier ... **TO DO: Add one more sentence.**
+<img src="images/jennifer.png" class="cover" width="240" height="240"/> **Jennifer Kampe** (she/her) is a PhD student in Statistical Science.
+Jennifer is interested in methods for spatio-temporal data, especially as applicable to ecological modeling.
 
 **TO DO: Link to the bit on office hours when added...**
 
 <br><br><br><br><br><br><br><br>
 
-<img src="images/vittorio.png" class="cover" width="240" height="240"/> [**Vittorio Orlandi**](https://vittorioorlandi.github.io/) is a PhD student in Statistical Science.
+<img src="images/vittorio.png" class="cover" width="240" height="240"/> [**Vittorio Orlandi**](https://vittorioorlandi.github.io/) (he/him) is a PhD student in Statistical Science.
 Vittorio works on methods in causal inference and Bayesian nonparametrics that can be used in practice, that are designed to handle the complexity inherent in real data without making naive assumptions, and that have have exceptional predictive accuracy as well as other desirable features like interpretability and uncertainty quantification.
 
 **TO DO: Link to the bit on office hours when added...**
