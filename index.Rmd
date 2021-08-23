@@ -15,27 +15,23 @@ link-citations: yes
 
 # Advanced Data Visualization {.unnumbered}
 
-<img src="images/vizdata-hex.png" class="cover" width="240" height="240"/>This is the homepage for STA 313 - Advanced Data Visualization.
+<img src="images/vizdata-hex.png" class="cover" width="240" height="240"/>This is the homepage for STA 313 - Advanced Data Visualization taught by [Dr. Mine Çetinkaya-Rundel](http://mine-cr.com/) in Fall 2021 at Duke University.
 All course materials will be posted on this site.
 
--   Instructor: [Mine Çetinkaya-Rundel](http://mine-cr.com/)
+Class meets on Wednesdays and Fridays, 12:00 - 13:15.
+Lab sessions are on Mondays, 12:00 - 13:15.
+All course meetings are in Perkins LINK 087 (Classroom 3)
 
--   Course meetings:
+You can find the syllabus for the course [here](https://www.vizdata.org/syllabus.html) and the course schedule [here](https://www.vizdata.org/schedule.html).
 
-    -   Lectures: Wednesdays and Fridays, 12:00 - 13:15, Perkins LINK 087 (Classroom 3)
-    -   Labs: Mondays, 12:00 - 13:15, Perkins LINK 087 (Classroom 3)
-
--   Syllabus: **TO DO: ADD DIRECT LINK**
-
--   Course materials: **TO DO: ADD DIRECT LINK**
-
-<br><br><br><br>
+<br>
 
 ## License {.unnumbered}
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This online work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.
 Visit [here](https://github.com/dukestatsciintrods/blob/master/LICENSE.md) for more information about the license.
 
-## Acknowledgements {.unnumbered}
+## About this website {.unnumbered}
 
-...
+This website is built with the [bookdown](https://bookdown.org/yihui/bookdown/) R package.
+The course logo is designed by me and uses iconography (the paintbrush) from [icons8](https://icons8.com/).
