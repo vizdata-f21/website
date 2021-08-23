@@ -2,17 +2,119 @@
 
 # Syllabus
 
-This course is all about the art and science of visualizing data.
-Learn about the what (types of visualizations, tools to produce them), the how (start with a design, pre-process the data, map it to graphical attributes, make strategic decisions about visual encoding, post-process for readability and visual appeal), and the why (the theory behind the grammar of graphics).
-Evaluate the clarity, effectiveness, and honesty of visualization choices and improve (your and others') visualizations through an iterative design process.
-Discuss the role of statistical graphics in modeling and inference.
-Do it all in R, reproducibly, and using a variety of modern data visualization packages.
+## Course description
 
-**TO DO:** Add course specific info here
+STA 313 - Advanced Data Visualization is all about the art and science of visualizing data.
+Three themes (what, why, and how) will run alongside each other as we cycle through the course topics.
+In "what" we focus on specific types of visualizations for a particular purpose (e.g. maps for spatial data, Sankey diagrams for proportions, etc.) as well as the tooling to produce them (e.g. specific R packages).
+In "how" we focus on the process -- each visualization starts with a design (which we'll often ask students to do with a rough sketch accompanied by pseudo code), then often needs pre-processing of the data (wrangling, reshaping, joining, etc. to get it into a tidy, rectangular format for visualization), then attributes of the data are mapped to plot aesthetics, then the creator of the visualization needs to make a series of strategic decisions about visual encoding (e.g. accessibility concerns), and finally creating effective visualizations requires post-processing for visual appeal as well as annotation.
+In "why" we discuss the theory that ties the "how" and the "what" together, often focusing on the grammar of graphics.
+Like any data analysis, data visualization is also an iterative process.
+We don't expect students to land on the perfect visualization on the first try, so we promote the iterative process via critical and constructive review of one's own and each others' work.
+Independent modules will also touch on topics such as using statistical graphics for visual inference, creating data-based art, and a review of the literature on non-visual approaches to representing data.
 
-## Behaviour and Health
+The course will focus on the use of the R statistical programming language and introduce students to a variety of modern data visualization packages in R.
+In addition, students will continue to use hone their data science workflow skills that they acquired in pre-requisite courses by working with Git and GitHub for version control and collaboration.
 
-### Behavior and Community Standards
+## Prerequisites
+
+This course assumes that this is not your first interaction with working with data in R, using RStudio, and along with version control with Git, and collaboration on GitHub.
+Any of the following courses meet the prerequisite for the course: STA 198, STA 199, or STA 210.
+The course will start with a quick review of the relevant technologies.
+
+## Learning goals
+
+-   Understand the principles of designing and creating effective data visualizations.
+-   Evaluate, critique, and improve upon one's own and others' data visualizations based on how good a job the visualization does for communicating a message clearly and correctly.
+-   Post-process and refine plots for effective communication.
+-   Use visualizations for evaluating statistical models and for statistical inference.
+-   Master using R and a variety of modern data visualization packages to create data visualizations.
+-   Work reproducibly individually and collaboratively using Git and GitHub.
+
+## Textbooks
+
+Readings for the course will come from the following textbooks.
+All of them are freely available online and you do not need to purchase a physical copy of either book to succeed in this class.
+
+1.  Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/). (in progress) 3rd edition. Springer, 2021.
+2.  Claus O. Wilke. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). O'Reilly Media, 2019.
+3.  Kieran Healy. [Data Visualization: A Practical Introduction](https://socviz.co/). Princeton University Press, 2018.
+
+## Lectures and lab
+
+The goal of both the lectures and the labs is for them to be as interactive as possible.
+My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them.
+A lot of what you do in this course will involve writing code, and coding is a skill that is best learned by doing.
+Therefore, as much as possible, you will be working on a variety of tasks and activities throughout each lecture and lab.
+Attendance will not be taken during class but you are expected to attend all lecture and lab sessions and meaningfully contribute to in-class exercises and discussion.
+
+You are expected to bring a laptop to each class so that you can take part in the in-class exercises.
+Please make sure your laptop is fully charged before you come to class as the number of outlets in the classroom will not be sufficient to accommodate everyone.
+See [Technology accommodations] if you need a loaner laptop.
+
+## Assessment
+
+Assessment for the course is comprised of three components: reading quizzes, homework assignments, and projects.
+
+-   **Reading quizzes** (6), due every other week (roughly), completed individually.
+    Each quiz is worth 2% of the grade.
+    Lowest quiz score is dropped.
+
+-   **Homework assignments** (6), due every other week (roughly), completed individually.
+    Each homework assignment is worth 8% of the course grade.
+    Lowest homework assignment score is dropped.
+
+-   **Projects** (2), mid-semester and end of semester, completed in teams.
+
+    -   Project 1: Teams will be given a dataset to visualize. Project 1 is worth 15% of the course grade.
+    -   Project 2: Teams will pick a dataset of interest to them and/or build an R package that implements a new type of data visualization in R. Project 2 is worth 25% of the course grade.
+
+    The deliverables for each project will include a data visualization, a write up of the process and findings, and a presentation.
+    For the second project, students will be encouraged to think beyond a traditional two-dimensional data visualization (e.g. interactive web apps/dashboards, data art, generative art, physical/tangible visualizations, **ggplot2** extensions, etc.).
+
+    Each project will have a peer review component to provide at least one round of feedback during the process of development.
+    Teams will provide periodic peer feedback to their teammates while working on the projects as well as upon completion.
+    The scores from the peer evaluations, along with individual contributions tracked by commits on GitHub, will be used to ensure that each student has contributed to the teamwork.
+
+    All team members must take part in the presentation.
+    Presentations can be given in person in class, or via Zoom if the team prefers.
+    My preference is that the team stick to one method of delivery (all presenters in person or all presenters on Zoom), but I realize a lot can change throughout this semester, and we'll adjust accordingly.
+
+All work is expected to be submitted by the deadline and there are no make ups for any missed assessments.
+See [Late work policy] for policies on late work.
+
+In summary, your course grade will be comprised of the following:
+
++-----------------------------------+----------------------------------+
+| Reading quizzes                   | 12%                              |
++-----------------------------------+----------------------------------+
+| Homework assignments              | 48%                              |
++-----------------------------------+----------------------------------+
+| Project 1                         | 15%                              |
++-----------------------------------+----------------------------------+
+| Project 2                         | 25%                              |
++-----------------------------------+----------------------------------+
+
+The exact ranges for letter grades will be curved and cutoffs will be determined at the end of the semester.
+The more evidence there is that the class has mastered the material, the more generous the curve will be.
+
+## Teams
+
+You will be assigned to a different team for each of your two projects.
+You are encouraged to sit with your teammates in lecture and you will also work with them in the lab sessions.
+All team members are expected to contribute equally to the completion of each project and you will be asked to evaluate your team members after each assignment is due.
+Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team's overall mark.
+
+Students are expected to make use of the provided GitHub repository as their central collaborative platform.
+Commits to this repository will be used as a metric (one of several) of each team member's relative contribution for each project.
+
+## Announcements
+
+I will regularly send course announcements via email and Sakai, make sure to check one or the other of these regularly.
+If an announcement is sent Monday through Thursday, I will assume that all students have read the announcement by the next day.
+If an announcement is sent on a Friday or over the weekend, I will assume that all students have read it by Monday.
+
+## Academic integrity
 
 All students must adhere to the [Duke Community Standard (DCS)](https://trinity.duke.edu/undergraduate/academic-policies/community-standard-student-conduct): Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, and accountability.
 Citizens of this community commit to reflect upon these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.
@@ -29,46 +131,30 @@ Regardless of course delivery format, it is the responsibility of all students t
 Ignoring these requirements is a violation of the Duke Community Standard.
 If you have any questions about how to follow these requirements, please contact Jeanna McCullers ([jeanna.mccullers\@duke.edu](mailto:jeanna.mccullers@duke.edu){.email}), Director of the Office of Student Conduct.
 
-### Mental Health and Wellness Resources
+## Diversity and inclusion
 
-Student mental health and wellness is of primary importance at Duke, and the university offers resources to support students in managing daily stress and self-care.
-Duke offers several resources for students to seek assistance on coursework and to nurture daily habits that support overall well-being, some of which are listed below:
+It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit.
+It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.
+Your suggestions are encouraged and appreciated.
+Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
--   The Academic Resource Center: (919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/),
--   DuWell: (919) 681-8421, [duwell\@studentaffairs.duke.edu](mailto:duwell@studentaffairs.duke.edu){.email}, or [studentaffairs.duke.edu/duwell](https://studentaffairs.duke.edu/duwell)
+Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture).
+To help accomplish this:
 
-If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to help you through difficult times.Duke encourages all students to access theseresources.
+-   If you have a name that differs from those that appear in your official Duke records, please let me know!
+    You'll be able to note this in the Getting to know you survey.
 
--   **DukeReach.** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance. [studentaffairs.duke.edu/dukereach](http://studentaffairs.duke.edu/dukereach)
--   **Counseling and Psychological Services (CAPS).** CAPS services include individual, group, and couples counseling services, health coaching, psychiatric services, and workshops and discussions. (919) 660-1000. [studentaffairs.duke.edu/caps](https://studentaffairs.duke.edu/caps)
--   **Blue Devils Care.** A convenient and cost-effective way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling. [bluedevilscare.duke.edu](https://bluedevilscare.duke.edu)
--   **Two-Click Support.** Duke Student Government and DukeReach partnership that connects students to help in just two clicks. [bit.ly/TwoClickSupport](https://bit.ly/TwoClickSupport)
+-   Please let me know your preferred pronouns.
+    You'll also be able to note this in the Getting to know you survey.
 
-### Academic SupportResources
+-   If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me.
+    I want to be a resource for you.
+    If you prefer to speak with someone outside of the course, your advisers and deans are excellent resources.
 
-The Academic Resource Center (the ARC) offers services to support students academically during their undergraduate careers at Duke.
-The ARC can provide support with time management, academic skills and strategies, unique learning styles, peer tutoring, learning consultations, learning communities, and more.
-ARC services are available free to any Duke undergraduate student, in any year, studying in any discipline.
-(919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/).
+-   I (like many people) am still in the process of learning about diverse perspectives and identities.
+    If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it.
 
-## Other domains
-
-### Tech Assistance and Course Costs
-
-#### Technology Accommodations:
-
-Students with demonstrated high financial need who have limited access to computers may request assistance in the form of loaner laptops.
-For new Fall 2021 technology assistance requests, please go [here](https://duke.qualtrics.com/jfe/form/SV_24Q2Iv1edXSwt5s).
-Please note that supplies are limited.
-
-**TO DO: Say something about containers**\*
-
-#### Course Materials Costs:
-
-There are no costs associated with this course.
-All readings will come from freely available, open resources (open-source textbooks, journal articles, etc.).
-
-### Accessibility
+## Accessibility
 
 [The Student Disability Access Office (SDAO)](https://access.duke.edu/students) is available to ensure that students are able to engage with their courses and related assignments.
 Students should be in touch with the Student Disability Access Office to request or update accommodations under these circumstances.
@@ -76,44 +162,179 @@ Zoom has the ability to provide live closed captioning, which we will turn on fo
 If you are not seeing this during a Zoom session, please let me know immediately.
 We might have forgotten to turn it on (and will correct promptly) or you might have a setting you need to enable (and we can walk you through it).
 
-### Inclement Weather and Attendance Policies
+I am committed to making all course materials accessible and I'm always learning how to do this better.
+If any course component is not accessible to you in any way, please don't hesitate to let me know.
 
-#### Inclement Weather Policy
+## Support
 
-In the event of inclement weather or other connectivity-related events that prohibit class attendance, I will notify you how we will make up missed course content and work.
-Asynchronous catch-up methods may apply.
+Most of you will need help at some point and we want to make sure you can identify when that is without getting too frustrated and feel comfortable seeking help.
 
-**TO DO: Mention recordings!!!**
+### Office hours
 
-#### Flexible Attendance Policy
+Office hours (with me and the teaching assistants) are the best time to get your questions answered about course content as well as to hear what others are asking about and learn from their questions.
+I encourage each and every one of you to take advantage of this resource!
+Make a pledge to stop by office hours at least once during the first three weeks of class.
+If you truly have no questions to ask, just stop by and say hi and introduce yourself.
+Our office hours are listed [here](https://www.vizdata.org/teaching-team.html).
+
+### Discussion forum
+
+Have a question that can't wait for office hours?
+Prefer to write out your question in detail rather than asking in person?
+The online discussion forum is the best venue for these!
+We will use GitHub Discussions as the online discussion forum.
+We will demo how to use the forum and give access to all enrolled students to the private GitHub repository that houses the forum during the first week of classes.
+
+Please refrain from emailing any course content questions (those should go GitHub Discussions), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g., illness, late work).
+
+### Academic support resources
+
+The Academic Resource Center (the ARC) offers services to support students academically during their undergraduate careers at Duke.
+The ARC can provide support with time management, academic skills and strategies, unique learning styles, peer tutoring, learning consultations, learning communities, and more.
+ARC services are available free to any Duke undergraduate student, in any year, studying in any discipline.
+(919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/).
+
+### Mental health and wellness resources
+
+Student mental health and wellness is of primary importance at Duke, and the university offers resources to support students in managing daily stress and self-care.
+Duke offers several resources for students to seek assistance on coursework and to nurture daily habits that support overall well-being, some of which are listed below:
+
+-   The Academic Resource Center: (919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/),
+-   DuWell: (919) 681-8421, [duwell\@studentaffairs.duke.edu](mailto:duwell@studentaffairs.duke.edu){.email}, or [studentaffairs.duke.edu/duwell](https://studentaffairs.duke.edu/duwell)
+
+If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to help you through difficult times.Duke encourages all students to access these resources.
+
+-   **DukeReach.** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance. [studentaffairs.duke.edu/dukereach](http://studentaffairs.duke.edu/dukereach)
+-   **Counseling and Psychological Services (CAPS).** CAPS services include individual, group, and couples counseling services, health coaching, psychiatric services, and workshops and discussions. (919) 660-1000. [studentaffairs.duke.edu/caps](https://studentaffairs.duke.edu/caps)
+-   **Blue Devils Care.** A convenient and cost-effective way for Duke students to receive 24/7 mental health support through TalkNow and scheduled counseling. [bluedevilscare.duke.edu](https://bluedevilscare.duke.edu)
+-   **Two-Click Support.** Duke Student Government and DukeReach partnership that connects students to help in just two clicks. [bit.ly/TwoClickSupport](https://bit.ly/TwoClickSupport)
+
+### Technology accommodations
+
+Students with demonstrated high financial need who have limited access to computers may request assistance in the form of loaner laptops.
+For new Fall 2021 technology assistance requests, please go [here](https://duke.qualtrics.com/jfe/form/SV_24Q2Iv1edXSwt5s).
+Please note that supplies are limited.
+
+Note that we will be using Duke's computational resources in this course.
+These resources are freely available to you.
+As long as your computer can connect to the internet and open a browser window, you can perform the necessary computing for this course.
+All software we use is open-source and/or freely available.
+
+### Course materials costs
+
+There are no costs associated with this course.
+All readings will come from freely available, open resources (open-source textbooks, journal articles, etc.).
+
+### Assistance with Zoom or Sakai
+
+For technical help with Sakai or Zoom, contact the Duke OIT Service Desk at [oit.duke.edu/help](https://oit.duke.edu/help).
+You can also access the self-service help documentation for Zoom [here](https://oit.duke.edu/help/articles/kb0029318) and for Sakai [here](https://sakai-duke.screenstepslive.com/s/sakai_support).
+
+Note that we will be making minimal use of Sakai in this course (primarily for announcements and grade book).
+All assignment submission and discussion will take place on GitHub instead.
+
+Zoom will be used for online office hours as well as as a backup option should we need to hold the course online instead of in person.
+
+## Policies
+
+### Collaboration policy
+
+Only work that is clearly assigned as team work should be completed collaboratively.
+
+-   The reading quizzes must be completed individually with absolutely no communication with classmates.
+-   The homework assignments must also be completed individually and you are welcomed to discuss the assignment with classmates at a high level (e.g., discuss what's the best way for approaching a problem, what functions are useful for accomplishing a particular task, etc.). However you may not directly share answers to homework questions (including any code) with anyone other than myself and the teaching assistants.
+-   For the projects, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.
+
+### Policy on sharing and reusing code
+
+I am well aware that a huge volume of code is available on the web to solve any number of problems.
+Unless I explicitly tell you not to use something, the course's policy is that you may make use of any online resources (e.g. RStudio Community, StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration).
+Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.
+On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class.
+
+### Late work policy
+
+Policy on late work depends on the particular course component:
+
+-   Reading quizzes: Late quizzes are not accepted and there are no make ups for missed quizzes.
+
+-   Homework assignments: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, email me to reopen your repository.
+
+    -   Late, but same day (before midnight): -10% of available points
+
+    -   Late, but next day: -20% of available points
+
+    -   Two days late or later: No credit, and we will not provide written feedback
+
+-   Projects: The following three components contribute to your project score.
+
+    -   Presentation: Late presentations are not accepted and there are no make ups for missed presentations.
+
+    -   Write up: GitHub repositories will be closed to contributions at the deadline.
+        If you need to submit your work late, email me to reopen your repository.
+
+        -   Late, but same day (before midnight): -10% of available points
+
+        -   Late, but next day: -20% of available points
+
+        -   Two days late or later: No credit, and we will not provide written feedback
+
+    -   Peer evaluation: Late peer evaluations are not accepted and there are no make ups for missed presentations.
+        If you do not turn in your peer evaluation, you get 0 points for your own peer score as well, regardless of how your teammates have evaluated you.
+
+### Regrade request policy
+
+Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to the course instructor.
+These will be considered if points were tallied incorrectly or if you feel your answer is correct but it was marked wrong.
+No regrade will be made to alter the number of points deducted for a mistake.
+There will be no grade changes after the second project presentations.
+Note that during the regrade process your score could go up or go down or not change.
+
+### Attendance policy
 
 Responsibility for class attendance rests with individual students.
 Since regular and punctual class attendance is expected, students must accept the consequences of failure to attend.
-However, in recognition of possible extra personal and academic stress and health concerns this semester, I will grant an additional excused absence, provided you discuss the absence with me and agree to make up missed work.
 More details on Trinity attendance policies are available [here](https://trinity.duke.edu/undergraduate/academic-policies/class-attendance-and-missed-work).
 
-**TO DO: Add something about group work!!!**
+However, there may be many reasons why you cannot be in class on a given day, particularly with possible extra personal and academic stress and health concerns this semester.
+All course lectures will be recorded and available to enrolled students after class.
+If you miss a lecture, make sure to watch the recording and review the material before the next class session.
+Lab time is dedicated to working on your homework assignments and collaborating with your teammates on your project.
+If you miss a lab session, make sure to communicate with your team about how you can make up your contribution.
+Given the technologies we use in the course, this is straightforward to do asynchronously.
+If you know you're going to miss a lab session and you're feeling well enough to do so, notify your teammates ahead of time.
+Overall these policies are put in place to ensure communication between team members, respect for each others' time, and also to give you a safety net in the case of illness or other reasons that keep you away from attending class.
 
-#### Attendance Policy Related to COVID Symptoms, Exposure, or Infection
+### Attendance policy related to COVID symptoms, exposure, or infection
 
 Student health, safety, and well-being are the university's top priorities.
-To help ensure your well-being and the well-being of those around you, please do not come to classif you have symptoms related to COVID-19, have had a known exposure to COVID-19, or have tested positive for COVID-19.
+To help ensure your well-being and the well-being of those around you, please do not come to class if you have symptoms related to COVID-19, have had a known exposure to COVID-19, or have tested positive for COVID-19.
 If any of these situations apply to you, you must follow university guidance related to the ongoing COVID-19 pandemic and current health and safety protocols.
 If you are experiencing any COVID-19 symptoms, contact student health at 919-681-9355.
 To keep the university community as safe and healthy as possible, you will be expected to follow these guidelines.
 Please reach out to me and your academic dean as soon as possible if you need to quarantine or isolate so that we can discuss arrangements for your continued participation in class.
 
-### Technical Support and Video Recording Rules
+### Inclement weather policy
 
-#### Assistance with Zoom or Sakai
+In the event of inclement weather or other connectivity-related events that prohibit class attendance, I will notify you how we will make up missed course content and work.
+This might entail holding the class on Zoom synchronously or watching a recording of the class.
 
-For technical help with Sakai or Zoom, contact the Duke OIT Service Desk at [oit.duke.edu/help](https://oit.duke.edu/help).
-You can also access the self-service help documentation for Zoom [here](https://oit.duke.edu/help/articles/kb0029318) and for Sakai [here](https://sakai-duke.screenstepslive.com/s/sakai_support).
+### Policy on video recording course content
 
-#### Rules for Video Recording Course Content
-
-Student recording of lectures must be permitted by the instructor and shall be for private study only.
-Such recordings shall not be distributed to anyone else without authorization by the instructor whose lecture has been recorded.
-However, the instructor may arrange through the Office of Information Technology to make recorded lectures available to students enrolled in the class on such terms and conditions as he or she prescribes.
-Unauthorized distribution is a cause for disciplinary action by the Judicial Board.
+All lectures will be recorded and available on Panopto, so students should not need to create their own recordings of lectures.
+If you feel that you need record the lectures yourself, you must get permission from me ahead of time and these recordings should be used for personal study only, no for distribution.
 The full policy on recording of lectures falls under the Duke University Policy on Intellectual Property Rights, available at [provost.duke.edu/sites/default/files/FHB_App_P.pdf](https://provost.duke.edu/sites/default/files/FHB_App_P.pdf).
+Unauthorized distribution is a cause for disciplinary action by the Judicial Board.
+
+## Learning during a pandemic
+
+I want to make sure that you learn everything you were hoping to learn from this class.
+If this requires flexibility, please don't hesitate to ask.
+
+-   You *never* owe me personal information about your health (mental or physical) but you're always welcome to talk to me.
+    If I can't help, I likely know someone who can.
+
+-   I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
+
+*Note:* If you've read this far in the syllabus, email me a picture of your pet.
+Or if you don't have a pet, your favourite meme!
