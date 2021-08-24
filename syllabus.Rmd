@@ -60,9 +60,15 @@ Assessment for the course is comprised of three components: reading quizzes, hom
     Each quiz is worth 2% of the grade.
     Lowest quiz score is dropped.
 
+    Reading quizzes will be linked from the [course schedule](https://www.vizdata.org/schedule.html).
+    They always cover reading that is due since the previous quiz and up to and including the deadline for the given quiz.
+    They're due by 12pm ET (beginning of class) on the indicated day on the [course schedule](https://www.vizdata.org/schedule.html).
+
 -   **Homework assignments** (6), due every other week (roughly), completed individually.
     Each homework assignment is worth 8% of the course grade.
     Lowest homework assignment score is dropped.
+
+    Homework assignments are due by 12pm ET (beginning of class) on the indicated day on the [course schedule](https://www.vizdata.org/schedule.html).
 
 -   **Projects** (2), mid-semester and end of semester, completed in teams.
 

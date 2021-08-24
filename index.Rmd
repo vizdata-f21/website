@@ -20,7 +20,7 @@ All course materials will be posted on this site.
 
 Class meets on Wednesdays and Fridays, 12:00 - 13:15.
 Lab sessions are on Mondays, 12:00 - 13:15.
-All course meetings are in Perkins LINK 087 (Classroom 3)
+All course meetings are in Perkins LINK 087 (Classroom 3).
 
 You can find the syllabus for the course [here](https://www.vizdata.org/syllabus.html) and the course schedule [here](https://www.vizdata.org/schedule.html).
 
