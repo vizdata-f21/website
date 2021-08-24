@@ -7,7 +7,7 @@ description: "Course website for STA 313 - Advanced Data Visualization"
 date: "`r Sys.Date()`"
 github-repo: vizdata-f21/website
 twitter-handle: minebocek
-cover-image: vizdata-fex.png
+cover-image: vizdata-hex.png
 url: 'https\://vizdata.org/'
 documentclass: book
 link-citations: yes
