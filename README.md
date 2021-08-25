@@ -12,4 +12,4 @@ The website is live at [vizdata.org](http://www.vizdata.org/).
 -   `#f1de67` - Arylide Yellow
 -   `#464a53` - Charcoal
 -   `#ffffff` - White
--   `#2AB6CB` - Pacific Blue
+-   `#2A9BB7` - Blue Green
