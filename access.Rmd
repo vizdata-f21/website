@@ -2,7 +2,7 @@
 
 # Access {#computing .unnumbered}
 
-To access computing resources for the introductory data science courses offered by the Duke University Department of Statistical Science, go to the Duke [Container Manager](https://cmgr.oit.duke.edu/containers) website, [cmgr.oit.duke.edu/containers](https://cmgr.oit.duke.edu/containers).
+To access computing resources for the introductory data science courses offered by the Duke University Department of Statistical Science, go to the [Duke Container Manager](https://cmgr.oit.duke.edu/containers) website, [cmgr.oit.duke.edu/containers](https://cmgr.oit.duke.edu/containers).
 
 If this is your first time accessing the containers, click on `reserve STA313` on the *Reservations available* menu on the right.
 You only need to do this once, and when you do, you'll see this container moved to the *My reservations* menu on the left.
