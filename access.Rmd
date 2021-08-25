@@ -1,6 +1,6 @@
-# (PART) Computing {.unnumbered .unnumbered}
+# (PART) Computing {.unnumbered}
 
-# Access {#computing .unnumbered}
+# Access
 
 To access computing resources for the introductory data science courses offered by the Duke University Department of Statistical Science, go to the [Duke Container Manager](https://cmgr.oit.duke.edu/containers) website, [cmgr.oit.duke.edu/containers](https://cmgr.oit.duke.edu/containers).
 

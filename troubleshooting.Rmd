@@ -1,4 +1,4 @@
-# Troubleshooting {#troubleshooting .unnumbered}
+# Troubleshooting
 
 -   If you're having difficulty launching an RStudio session from your reserved container, go to [status.oit.duke.edu](https://status.oit.duke.edu/) and scroll down to **Teaching and Learning Tools**.
     Under this heading you'll find an entry called *Container Manager (CMGR Coursework Containers)*.
