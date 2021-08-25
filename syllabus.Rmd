@@ -7,14 +7,14 @@
 STA 313 - Advanced Data Visualization is all about the art and science of visualizing data.
 Three themes (what, why, and how) will run alongside each other as we cycle through the course topics.
 In "what" we focus on specific types of visualizations for a particular purpose (e.g. maps for spatial data, Sankey diagrams for proportions, etc.) as well as the tooling to produce them (e.g. specific R packages).
-In "how" we focus on the process -- each visualization starts with a design (which we'll often ask students to do with a rough sketch accompanied by pseudo code), then often needs pre-processing of the data (wrangling, reshaping, joining, etc. to get it into a tidy, rectangular format for visualization), then attributes of the data are mapped to plot aesthetics, then the creator of the visualization needs to make a series of strategic decisions about visual encoding (e.g. accessibility concerns), and finally creating effective visualizations requires post-processing for visual appeal as well as annotation.
+In "how" we focus on the process -- each visualization starts with a design (which we'll often ask you to do with a rough sketch accompanied by pseudo code), then often needs pre-processing of the data (wrangling, reshaping, joining, etc. to get it into a tidy, rectangular format for visualization), then attributes of the data are mapped to plot aesthetics, then the creator of the visualization needs to make a series of strategic decisions about visual encoding (e.g. accessibility concerns), and finally creating effective visualizations requires post-processing for visual appeal as well as annotation.
 In "why" we discuss the theory that ties the "how" and the "what" together, often focusing on the grammar of graphics.
 Like any data analysis, data visualization is also an iterative process.
-We don't expect students to land on the perfect visualization on the first try, so we promote the iterative process via critical and constructive review of one's own and each others' work.
+We don't expect you to land on the perfect visualization on the first try, so we promote the iterative process via critical and constructive review of one's own and each others' work.
 Independent modules will also touch on topics such as using statistical graphics for visual inference, creating data-based art, and a review of the literature on non-visual approaches to representing data.
 
-The course will focus on the use of the R statistical programming language and introduce students to a variety of modern data visualization packages in R.
-In addition, students will continue to use hone their data science workflow skills that they acquired in pre-requisite courses by working with Git and GitHub for version control and collaboration.
+The course will focus on the use of the R statistical programming language and introduce you to a variety of modern data visualization packages in R.
+In addition, you will continue to use hone their data science workflow skills that they acquired in pre-requisite courses by working with Git and GitHub for version control and collaboration.
 
 ## Prerequisites
 
@@ -76,7 +76,7 @@ Assessment for the course is comprised of three components: reading quizzes, hom
     -   Project 2: Teams will pick a dataset of interest to them and/or build an R package that implements a new type of data visualization in R. Project 2 is worth 25% of the course grade.
 
     The deliverables for each project will include a data visualization, a write up of the process and findings, and a presentation.
-    For the second project, students will be encouraged to think beyond a traditional two-dimensional data visualization (e.g. interactive web apps/dashboards, data art, generative art, physical/tangible visualizations, **ggplot2** extensions, etc.).
+    For the second project, you will be encouraged to think beyond a traditional two-dimensional data visualization (e.g. interactive web apps/dashboards, data art, generative art, physical/tangible visualizations, **ggplot2** extensions, etc.).
 
     Each project will have a peer review component to provide at least one round of feedback during the process of development.
     Teams will provide periodic peer feedback to their teammates while working on the projects as well as upon completion.
@@ -108,14 +108,14 @@ You are encouraged to sit with your teammates in lecture and you will also work 
 All team members are expected to contribute equally to the completion of each project and you will be asked to evaluate your team members after each assignment is due.
 Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team's overall mark.
 
-Students are expected to make use of the provided GitHub repository as their central collaborative platform.
+You are expected to make use of the provided GitHub repository as their central collaborative platform.
 Commits to this repository will be used as a metric (one of several) of each team member's relative contribution for each project.
 
 ## Announcements
 
 I will regularly send course announcements via email and Sakai, make sure to check one or the other of these regularly.
-If an announcement is sent Monday through Thursday, I will assume that all students have read the announcement by the next day.
-If an announcement is sent on a Friday or over the weekend, I will assume that all students have read it by Monday.
+If an announcement is sent Monday through Thursday, I will assume that you have read the announcement by the next day.
+If an announcement is sent on a Friday or over the weekend, I will assume that you have read it by Monday.
 
 ## Academic integrity
 
@@ -130,7 +130,7 @@ Students affirm their commitment to uphold the values of the Duke University com
 -   I will conduct myself honorably in all my endeavors;
 -   I will act if the Standard is compromised
 
-Regardless of course delivery format, it is the responsibility of all students to understand and follow Duke policies regarding academic integrity, including doing one's own work, following proper citation of sources, and adhering to guidance around group work projects.
+Regardless of course delivery format, it is your responsibility to understand and follow Duke policies regarding academic integrity, including doing one's own work, following proper citation of sources, and adhering to guidance around group work projects.
 Ignoring these requirements is a violation of the Duke Community Standard.
 If you have any questions about how to follow these requirements, please contact Jeanna McCullers ([jeanna.mccullers\@duke.edu](mailto:jeanna.mccullers@duke.edu){.email}), Director of the Office of Student Conduct.
 
@@ -207,7 +207,8 @@ Duke offers several resources for students to seek assistance on coursework and 
 -   The Academic Resource Center: (919) 684-5917, [theARC\@duke.edu](mailto:theARC@duke.edu){.email}, or [arc.duke.edu](https://arc.duke.edu/),
 -   DuWell: (919) 681-8421, [duwell\@studentaffairs.duke.edu](mailto:duwell@studentaffairs.duke.edu){.email}, or [studentaffairs.duke.edu/duwell](https://studentaffairs.duke.edu/duwell)
 
-If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to help you through difficult times.Duke encourages all students to access these resources.
+If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to help you through difficult times.
+Duke encourages all students to access these resources.
 
 -   **DukeReach.** Provides comprehensive outreach services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance. [studentaffairs.duke.edu/dukereach](http://studentaffairs.duke.edu/dukereach)
 -   **Counseling and Psychological Services (CAPS).** CAPS services include individual, group, and couples counseling services, health coaching, psychiatric services, and workshops and discussions. (919) 660-1000. [studentaffairs.duke.edu/caps](https://studentaffairs.duke.edu/caps)

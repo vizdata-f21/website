@@ -4,7 +4,7 @@
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | RStudio containers         | 🔗 on [Duke Container Manager](https://cmgr.oit.duke.edu/containers)                                                                  |
 | Course GitHub organization | 🔗 on [GitHub](https://github.com/vizdata-f21)                                                                                        |
-| Discussion forum           | 🔗 on [GitHub](https://github.com/vizdata-f21/discussion)                                                                             |
+| Discussion forum           | 🔗 on [GitHub](https://github.com/vizdata-f21/discussion/discussions)                                                                 |
 | Lecture recordings         | 🔗 on [Panopto](https://duke.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d0c006df-080c-461d-b670-ad8e011f3ae5%22) |
 | Gradebook                  | 🔗 on [Sakai](https://sakai.duke.edu/portal/site/8bb9612c-0cec-4245-bb50-14e2db668ed4/tool/47cc02f6-c229-4cc9-a9ca-59985b84315a/)     |
-| Virtual office hours       | 🔗 on [Sakai](https://sakai.duke.edu/portal/site/8bb9612c-0cec-4245-bb50-14e2db668ed4/tool/47cc02f6-c229-4cc9-a9ca-59985b84315a/)     |
+| Virtual office hours       | 🔗 on [Sakai](https://sakai.duke.edu/portal/site/8bb9612c-0cec-4245-bb50-14e2db668ed4/page/e742f0bb-aa55-4bd5-8aaf-ab50c01fc332)      |
