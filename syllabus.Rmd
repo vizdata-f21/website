@@ -178,9 +178,33 @@ Office hours (with me and the teaching assistants) are the best time to get your
 I encourage each and every one of you to take advantage of this resource!
 Make a pledge to stop by office hours at least once during the first three weeks of class.
 If you truly have no questions to ask, just stop by and say hi and introduce yourself.
-Our office hours are listed [here](https://www.vizdata.org/teaching-team.html).
+Our office hours are as follows[^syllabus-1]:
+
+-   Mine:
+
+    -   Tuesday 3-4pm (on Zoom)
+
+    -   Friday 9:30-10:30am (on Zoom)
+
+-   Jennifer: Thursdays 5-6pm (on Zoom)
+
+-   Vittorio:
+
+    -   Mondays 2-3pm (Old Chem 203B)
+
+    -   Tuesdays 11am-12pm (Old Chem 203B)
+
+-   Meredith (for R and computing questions only):
+
+    -   Tuesdays 7-8pm (on Zoom)
+
+    -   Thursdays 10:30-11am (on Zoom)
+
 Homework will generally be due on Wednesdays and we have office hours on Mondays, Tuesdays, Thursdays, and Fridays.
 TA office hours will start on the second week of classes.
+
+In addition to my and our course TAs' office hours, you can also take advantage of the department R TA Meredith Brown's office hours as well.
+They're 7-8pm on Tuesdays and 10:30-11:30am on Thursdays on Zoom (see Sakai for Zoom links for these sessions).
 
 ### Discussion forum
 
@@ -345,3 +369,5 @@ If this requires flexibility, please don't hesitate to ask.
 
 *Note:* If you've read this far in the syllabus, email me a picture of your pet.
 Or if you don't have a pet, your favourite meme!
+
+[^syllabus-1]: And they're also listed [here](https://www.vizdata.org/teaching-team.html).
