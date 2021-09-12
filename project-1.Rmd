@@ -17,7 +17,7 @@ Some guidance for choosing a dataset is below:
     -   A brief description of your dataset including its provenance, dimensions, etc. (Make sure to load the data and use inline code for some of this information.)
     -   The reason why you chose this dataset.
     -   The two questions you want to answer.
-    -   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any), and pseudo code
+    -   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any).
 
 -   Week 2 of project (week of Mon, Sep 20): Provide peer review to two other teams in the form of issues in their GitHub repos, address the issues left on your team's project repo by closing them with explicit commits.
     Feel free to get started on your presentation as well.
@@ -35,13 +35,13 @@ Some guidance for choosing a dataset is below:
 
 ## Guidelines
 
-Please use the project repository that has been created for your team for to complete your project.
-This means putting all of the content in the R Markdown files provided and knitting them to obtain the output and committing and pushing all source and output files to your repository by the indicated deadlines.
+Please use the project repository that has been created for your team to complete your project.
+This means putting all of the content in the R Markdown files provided, knitting them to obtain the output, and committing and pushing all files to your repository by the indicated deadlines.
 Your R Markdown files (`.Rmd`) and the resulting markdown files (`.md`) will be graded jointly, so they must be consistent (as in, don't change the R Markdown file without also updating the knitted document!).
 
 All results presented must have corresponding code.
-Any answers/results given without the corresponding R code that generated the result will be considered absent.
-To be clear: if you do calculations by hand instead of using R and then report the results from the calculations, you will not receive credit for those calculations.
+If you do calculations by hand instead of using R and then report the results from the calculations, you will not receive credit for those calculations.
+Any answers/results given without the corresponding R code that generated the result will not be considered.
 For example, if you're reporting the number of observations in your dataset, don't just write the number manually, use inline R code to calculate the number.
 All code reported in your final project document should work properly.
 Please do not include any extraneous code or code which produces error messages.
@@ -57,7 +57,7 @@ The following folders and files in your project repository:
 
 -   `/data/*`: Your dataset
 
-    -   `/data/*.*`: in CSV, RDS, or similar format
+    -   `/data/*.csv`: Your dataset in CSV format
 
     -   `/data/README.md`: Metadata about your dataset including information on provenance, codebook, etc.[^project-1-1]
 
@@ -166,7 +166,7 @@ We don't care how many slides you use to do this.
 
 [^project-1-1]: It is ok for you to repeat some information from the TidyTuesday repository but, but make sure appropriately attribute it here.
 
-[^project-1-2]: Your proposal score will also take into consideration how much you've improved your proposal based on peer evaluation feedback.
+[^project-1-2]: Your proposal score will also take into consideration how much you've improved your proposal based on peer feedback.
 
 [^project-1-3]: A more detailed grading rubric for this component to be added.
 
