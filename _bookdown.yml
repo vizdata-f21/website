@@ -12,6 +12,9 @@ rmd_files: [
   "schedule.Rmd",
   "links.Rmd",
   
+  "project-1.Rmd",
+  "project-2.Rmd",
+  
   "access.Rmd",
   "troubleshooting.Rmd",
   
