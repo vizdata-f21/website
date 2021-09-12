@@ -4,10 +4,23 @@
 
 For this project, you will be using a dataset from the TidyTuesday project.
 You can choose any dataset you want from the datasets released in 2021 as part of this project: <https://github.com/rfordatascience/tidytuesday/tree/master/data/2021#readme>.
-Some guidance for choosing a dataset is below:
+Your task for the project is to come up with two questions to answer, answer them with data visualizations, and write-up and present your method and findings.
+You will also get to peer review others' projects.
 
--   The dataset you choose should have some numerical and some categorical variables or you should be able to recode some of the existing variables so that you can ultimately have both numerical and categorical variables to work with.
--   The dataset should allow for two distinct questions to be asked and answered using a not-completely-overlapping set of variables, i.e., Question 1 requires the use of variables `x`, `y`, and `z` and Question 2 requires the use of variables `a`, `b`, `c`, and `d` or `x`, `a`, and `b`. Some shared variables are ok, but the set of variables should not be completely overlapping, i.e., Question 2 can't also require the use of variables `x`, `y`, and `z`.
+## Dataset
+
+Choosing a dataset is something you should do carefully but also relatively quickly (during the first lab session that you're working on the project).
+
+The dataset you choose should have some numerical and some categorical variables or you should be able to recode some of the existing variables so that you can ultimately have both numerical and categorical variables to work with.
+
+It is also very important that the dataset you choose allows for two distinct questions to be asked and answered using a not-completely-overlapping set of variables, i.e., Question 1 requires the use of variables `x`, `y`, and `z` and Question 2 requires the use of variables `a`, `b`, `c`, and `d` or `x`, `a`, and `b`.
+Some shared variables are ok, but the set of variables should not be completely overlapping, i.e., Question 2 can't also require the use of variables `x`, `y`, and `z`.
+
+## Questions
+
+Each of the two questions you come up with should involve more than two variables two answer.
+You should phrase them in a way that the is within the scope of inference of your data.
+For example, if you have an observational dataset, you shouldn't phrase your question in a causal way.
 
 ## Workflow
 
@@ -31,23 +44,7 @@ Some guidance for choosing a dataset is below:
 
 -   Proposals for peer review: due Fri, Sep 17 at 5pm.
 -   Revised proposals for instructor review: due Fri, Sep 24 at 5pm.
--   Write-up and presentation: due Fri, Oct 1 at noon (class time).
-
-## Guidelines
-
-Please use the project repository that has been created for your team to complete your project.
-This means putting all of the content in the R Markdown files provided, knitting them to obtain the output, and committing and pushing all files to your repository by the indicated deadlines.
-Your R Markdown files (`.Rmd`) and the resulting markdown files (`.md`) will be graded jointly, so they must be consistent (as in, don't change the R Markdown file without also updating the knitted document!).
-
-All results presented must have corresponding code.
-If you do calculations by hand instead of using R and then report the results from the calculations, you will not receive credit for those calculations.
-Any answers/results given without the corresponding R code that generated the result will not be considered.
-For example, if you're reporting the number of observations in your dataset, don't just write the number manually, use inline R code to calculate the number.
-All code reported in your final project document should work properly.
-Please do not include any extraneous code or code which produces error messages.
-Code which produces certain warnings and messages is acceptable, as long as you understand what the warnings mean.
-In such cases you can add `warning = FALSE` and `message = FALSE` in the relevant R chunks.
-Warnings that signal lifecycle changes (e.g., a function is deprecated and there's a newer/better function out there) should generally be addressed by updating your code, not just by hiding the warning.
+-   Write-up and presentation: due Fri, Oct 1 at noon (beginning of class).
 
 ## Repo organization
 
@@ -75,12 +72,11 @@ The following folders and files in your project repository:
 
 ## Write-up
 
-This project consists of three parts, each answering a question you come up with.
-Each part should be structured as follows:
+Your write-up should consist of three parts:
 
-1.  Introduction (1-2 paragraphs): Brief introduction to the dataset. You may repeat some of the information about the dataset provided in the introduction to the dataset on the TidyTuesday repository, paraphrasing on your own terms. Imagine that your project is a standalone document and the grader has no prior knowledge of the dataset.
+1.  **Introduction** (1-2 paragraphs): Brief introduction to the dataset. You may repeat some of the information about the dataset provided in the introduction to the dataset on the TidyTuesday repository, paraphrasing on your own terms. Imagine that your project is a standalone document and the grader has no prior knowledge of the dataset.
 
-2.  Question 1:
+2.  **Question 1**: The title should relate to the question you're answering.
 
     -   Introduction (1-2 paragraphs): Introduction to the question and what parts of the dataset are necessary to answer the question.
         Also discuss why you're interested in this question.
@@ -99,7 +95,7 @@ Each part should be structured as follows:
         Identify any trends revealed (or not revealed) by the plots.
         Speculate about why the data looks the way it does.
 
-3.  Question 2: Same structure outlined for Question 1, but for your new question.
+3.  **Question 2**: Same structure outlined for Question 1, but for your new question. And the title should relate to the question you're answering.
 
 We encourage you to be concise.
 A paragraph should typically not be longer than 5 sentences.
@@ -137,6 +133,22 @@ We don't care how many slides you use to do this.
 +--------------------------------------------------------+---------------------------------------------------+
 | Between team peer evaluation[^project-1-7]             | 10 pts                                            |
 +--------------------------------------------------------+---------------------------------------------------+
+
+## Guidelines
+
+Please use the project repository that has been created for your team to complete your project.
+This means putting all of the content in the R Markdown files provided, knitting them to obtain the output, and committing and pushing all files to your repository by the indicated deadlines.
+Your R Markdown files (`.Rmd`) and the resulting markdown files (`.md`) will be graded jointly, so they must be consistent (as in, don't change the R Markdown file without also updating the knitted document!).
+
+All results presented must have corresponding code.
+If you do calculations by hand instead of using R and then report the results from the calculations, you will not receive credit for those calculations.
+Any answers/results given without the corresponding R code that generated the result will not be considered.
+For example, if you're reporting the number of observations in your dataset, don't just write the number manually, use inline R code to calculate the number.
+All code reported in your final project document should work properly.
+Please do not include any extraneous code or code which produces error messages.
+Code which produces certain warnings and messages is acceptable, as long as you understand what the warnings mean.
+In such cases you can add `warning = FALSE` and `message = FALSE` in the relevant R chunks.
+Warnings that signal lifecycle changes (e.g., a function is deprecated and there's a newer/better function out there) should generally be addressed by updating your code, not just by hiding the warning.
 
 ## Tips
 
