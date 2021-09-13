@@ -1,9 +1,9 @@
 ---
 knit: bookdown::render_book
 site: bookdown::bookdown_site
-title: "STA 313"
+title: "STA/ISS 313"
 author: "Mine Çetinkaya-Rundel"
-description: "Course website for STA 313 - Advanced Data Visualization"
+description: "Course website for STA/ISS 313 - Advanced Data Visualization"
 date: "`r Sys.Date()`"
 github-repo: vizdata-f21/website
 twitter-handle: minebocek
