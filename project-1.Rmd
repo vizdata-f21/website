@@ -117,6 +117,13 @@ You should feel free to have more (or fewer) slides.
 Your evaluation will be based on your content, professionalism (including sticking to time), and your performance during the Q&A (question and answer).
 We don't care how many slides you use to do this.
 
+## Website
+
+Each of your projects will have a website that looks like [this](https://vizdata-f21.github.io/project-1/).
+The text comes from your `README.md` file (which contains your write-up) and your presentation is linked from there as well.
+You are not expected to change the styling of the website, but if you want to, you'll need to edit the `_config.yml` file in your repo.
+Feel free to google your way around it or ask on the discussion forum / office hours!
+
 ## Grading
 
 +--------------------------------------------------------+--------------------------------------------------+
