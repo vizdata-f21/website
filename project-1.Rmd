@@ -53,7 +53,7 @@ Your proposal should include:
 
 ### Peer review
 
-#### Reviewer tasks
+#### Reviewer tasks {.unnumbered}
 
 Each team will review the proposals of two other teams.
 The peer review will be completed during the lab session on Monday, Sep 20.
@@ -94,7 +94,7 @@ You should be critical, but respectful in your review.
 Also remember that you will be evaluated on the quality of your review.
 So that's an additional incentive to do a good job.
 
-#### Reviewee tasks
+#### Reviewee tasks {.unnumbered}
 
 Once you receive feedback from your peers, you should address them.
 You should do this by directly updating your proposal or making any other updates to your repo as needed.
