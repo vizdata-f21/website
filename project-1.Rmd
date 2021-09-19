@@ -25,12 +25,6 @@ For example, if you have an observational dataset, you shouldn't phrase your que
 ## Workflow
 
 -   Week 1 of project (week of Mon, Sep 13): Choose a dataset and write up your proposal in `proposal.Rmd`.
-    This includes:
-
-    -   A brief description of your dataset including its provenance, dimensions, etc. (Make sure to load the data and use inline code for some of this information.)
-    -   The reason why you chose this dataset.
-    -   The two questions you want to answer.
-    -   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any).
 
 -   Week 2 of project (week of Mon, Sep 20): Provide peer review to two other teams in the form of issues in their GitHub repos, address the issues left on your team's project repo by closing them with explicit commits.
     Feel free to get started on your presentation as well.
@@ -46,31 +40,70 @@ For example, if you have an observational dataset, you shouldn't phrase your que
 -   Revised proposals for instructor review: due Fri, Sep 24 at 5pm.
 -   Write-up and presentation: due Fri, Oct 1 at noon (beginning of class).
 
-## Repo organization
+## Deliverables
 
-The following folders and files in your project repository:
+### Proposal
 
--   `README.md`: Your project write-up
+Your proposal should include:
 
--   `/data/*`: Your dataset
+-   A brief description of your dataset including its provenance, dimensions, etc. (Make sure to load the data and use inline code for some of this information.)
+-   The reason why you chose this dataset.
+-   The two questions you want to answer.
+-   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any).
 
-    -   `/data/*.csv`: Your dataset in CSV format
+### Peer review
 
-    -   `/data/README.md`: Metadata about your dataset including information on provenance, codebook, etc.[^project-1-1]
+#### Reviewer tasks
 
--   `/proposal`: Your project proposal
+Each team will review the proposals of two other teams.
+The peer review will be completed during the lab session on Monday, Sep 20.
+On that day teams will have access to the project repos of the two teams whose work they're reviewing.
+The peer review assignments are as follows:
 
-    -   `/proposal/proposal.Rmd`: Source code for your proposal
++--------------------------+-------------------------------------------+
+| Reviewer                 | Reviewee                                  |
++==========================+===========================================+
+| Ctrl+Alt+Elite           | Mr. Palmer's Penguins, The Outliers       |
++--------------------------+-------------------------------------------+
+| Mr. Palmer's Penguins    | The Outliers, Dorian's Gs                 |
++--------------------------+-------------------------------------------+
+| The Outliers             | Dorian's Gs, Team 5 Look Alive            |
++--------------------------+-------------------------------------------+
+| Dorian's Gs              | Team 5 Look Alive, R-mageddon             |
++--------------------------+-------------------------------------------+
+| Team 5 Look Alive        | R-mageddon, 7 Up                          |
++--------------------------+-------------------------------------------+
+| R-mageddon               | 7 Up, The Scatterplots                    |
++--------------------------+-------------------------------------------+
+| 7 Up                     | The Scatterplots, Ctrl+Alt+Elite          |
++--------------------------+-------------------------------------------+
+| The Scatterplots         | Ctrl+Alt+Elite, Mr. Palmer's Penguins     |
++--------------------------+-------------------------------------------+
 
-    -   `/proposal/proposal.md`: Output code for your proposal
+Teams will develop the review together, with discussion among all team members, but only one team member will submit it as an issue on the project repo.
+To do so, go to the *Issues* tab, click on the green *New issue* button on the top right, and then click on the green *Get started* button for the issue template titled *Peer review*.
 
--   `/presentation`: Your project presentation files
+This will start a new issue with a peer review form that you can fill out.
+Make sure to update the introductory paragraph with your team name and the names of the team members participating in the review.
+Then, answer each of the questions in the spaces provided underneath them.
+You're expected to be thorough in your review, but this doesn't necessarily require lengthy responses.
 
-    -   `/presentation/presentation.Rmd`: Source code for your presentation
+Remember, your goal is to help the team whose project proposal you're reviewing.
+The team will not lose points because of issues you point out, as long as they address them before I review their proposals.
+You should be critical, but respectful in your review.
+Also remember that you will be evaluated on the quality of your review.
+So that's an additional incentive to do a good job.
 
-    -   `/presentation/presentation.html`: Output for your presentation
+#### Reviewee tasks
 
-## Write-up
+Once you receive feedback from your peers, you should address them.
+You should do this by directly updating your proposal or making any other updates to your repo as needed.
+You can do these updates all in one commit or you can spread it across multiple commits.
+Regardless, in the last commit that addresses the peer review comments, you should use a keyword in your commit message that will close the peer review issues.
+These words are close, closes, closed, fix, fixes, fixed, resolve, resolves, and resolved and they need to be followed by the issue number (which you can find next to the issue title).
+So, your commit message can say something like *"Finished updates based on peer review, fixes #1"*.
+
+### Write-up
 
 Your write-up should consist of three parts:
 
@@ -105,7 +138,7 @@ A paragraph should typically not be longer than 5 sentences.
 
 You are not required to perform any statistical tests in this project, but you may do so if you find it helpful to answer your question.
 
-## Presentation
+### Presentation
 
 Your presentation should generally follow the same structure as your write-up.
 Each team will have 5 minutes for their presentation, and each team member must speak (roughly equally) during this time.
@@ -117,12 +150,36 @@ You should feel free to have more (or fewer) slides.
 Your evaluation will be based on your content, professionalism (including sticking to time), and your performance during the Q&A (question and answer).
 We don't care how many slides you use to do this.
 
-## Website
+### Website
 
 Each of your projects will have a website that looks like [this](https://vizdata-f21.github.io/project-1/).
 The text comes from your `README.md` file (which contains your write-up) and your presentation is linked from there as well.
 You are not expected to change the styling of the website, but if you want to, you'll need to edit the `_config.yml` file in your repo.
 Feel free to google your way around it or ask on the discussion forum / office hours!
+
+## Repo organization
+
+The following folders and files in your project repository:
+
+-   `README.md`: Your project write-up
+
+-   `/data/*`: Your dataset
+
+    -   `/data/*.csv`: Your dataset in CSV format
+
+    -   `/data/README.md`: Metadata about your dataset including information on provenance, codebook, etc.[^project-1-1]
+
+-   `/proposal`: Your project proposal
+
+    -   `/proposal/proposal.Rmd`: Source code for your proposal
+
+    -   `/proposal/proposal.md`: Output code for your proposal
+
+-   `/presentation`: Your project presentation files
+
+    -   `/presentation/presentation.Rmd`: Source code for your presentation
+
+    -   `/presentation/presentation.html`: Output for your presentation
 
 ## Grading
 
