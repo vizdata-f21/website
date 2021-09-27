@@ -226,12 +226,12 @@ Some of the components are further detailed below.
 
 -   Content: Both Question 1 and Question 2 will each be scored by the following criteria. Point values apply per part.
 
-    -   Is the question well articulated in the presentation? (2 points)
-    -   Can the question be answered with the data? (2 points)
-    -   Do(es) the data visualization(s) answer the question? (2 points)
-    -   Do(es) the data visualization(s) follow good visualization practices? (2 points)
-    -   Is/are the conclusion(s) made based on the visualization(s) justifiable? (2 points)
-    -   Are the limitations carefully considered and articulated? (2 points)
+    -   Is the question well articulated in the presentation? (1 point)
+    -   Can the question be answered with the data? (1 point)
+    -   Do(es) the data visualization(s) answer the question? (1 point)
+    -   Do(es) the data visualization(s) follow good visualization practices? (1 point)
+    -   Is/are the conclusion(s) made based on the visualization(s) justifiable? (1 point)
+    -   Are the limitations carefully considered and articulated? (1 point)
 
 #### Peers (5 points)
 
