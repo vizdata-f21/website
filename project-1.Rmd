@@ -60,25 +60,25 @@ The peer review will be completed during the lab session on Monday, Sep 20.
 On that day teams will have access to the project repos of the two teams whose work they're reviewing.
 The peer review assignments are as follows:
 
-+--------------------------+-------------------------------------------+
-| Reviewer                 | Reviewee                                  |
-+==========================+===========================================+
-| Ctrl+Alt+Elite           | Mr. Palmer's Penguins, The Outliers       |
-+--------------------------+-------------------------------------------+
-| Mr. Palmer's Penguins    | The Outliers, Dorian's Gs                 |
-+--------------------------+-------------------------------------------+
-| The Outliers             | Dorian's Gs, Team 5 Look Alive            |
-+--------------------------+-------------------------------------------+
-| Dorian's Gs              | Team 5 Look Alive, R-mageddon             |
-+--------------------------+-------------------------------------------+
-| Team 5 Look Alive        | R-mageddon, 7 Up                          |
-+--------------------------+-------------------------------------------+
-| R-mageddon               | 7 Up, The Scatterplots                    |
-+--------------------------+-------------------------------------------+
-| 7 Up                     | The Scatterplots, Ctrl+Alt+Elite          |
-+--------------------------+-------------------------------------------+
-| The Scatterplots         | Ctrl+Alt+Elite, Mr. Palmer's Penguins     |
-+--------------------------+-------------------------------------------+
++-------------------------+------------------------------------------+
+| Reviewer                | Reviewee                                 |
++=========================+==========================================+
+| Ctrl+Alt+Elite          | Mr. Palmer's Penguins, The Outliers      |
++-------------------------+------------------------------------------+
+| Mr. Palmer's Penguins   | The Outliers, Dorian's Gs                |
++-------------------------+------------------------------------------+
+| The Outliers            | Dorian's Gs, Team 5 Look Alive           |
++-------------------------+------------------------------------------+
+| Dorian's Gs             | Team 5 Look Alive, R-mageddon            |
++-------------------------+------------------------------------------+
+| Team 5 Look Alive       | R-mageddon, 7 Up                         |
++-------------------------+------------------------------------------+
+| R-mageddon              | 7 Up, The Scatterplots                   |
++-------------------------+------------------------------------------+
+| 7 Up                    | The Scatterplots, Ctrl+Alt+Elite         |
++-------------------------+------------------------------------------+
+| The Scatterplots        | Ctrl+Alt+Elite, Mr. Palmer's Penguins    |
++-------------------------+------------------------------------------+
 
 Teams will develop the review together, with discussion among all team members, but only one team member will submit it as an issue on the project repo.
 To do so, go to the *Issues* tab, click on the green *New issue* button on the top right, and then click on the green *Get started* button for the issue template titled *Peer review*.
@@ -200,6 +200,65 @@ The following folders and files in your project repository:
 +--------------------------------------------------------+--------------------------------------------------+
 | Between team peer evaluation[^project-1-7]             | 10 pts                                           |
 +--------------------------------------------------------+--------------------------------------------------+
+
+Some of the components are further detailed below.
+
+### Proposal (10 points)
+
+-   Data - Dataset is in the data folder, along with a codebook in the README of that folder. (3 points)
+-   Write-up - All required components included. (5 points)
+-   Workflow - Peer review issues closed via commits. (1 point)
+-   Teamwork - All team members must contribute to the repo via commits. (1 point)
+
+### Presentation (30 points)
+
+#### Teaching team (25 points)
+
+-   Time management: Did the team divide the time well amongst themselves or got cut off going over time? (2 points)
+
+-   Professionalism: How well did the team present? Does the presentation appear to be well practiced? Did everyone get a chance to say something meaningful about the project? (2 points)
+
+-   Teamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together? (3 points)
+
+-   Slides: Are the slides well organized, readable, not full of text, featuring figures with legible labels, legends, etc.? (3 points)
+
+-   Creativity Critical Thought: Is the project carefully thought out? Does it appear that time and effort went into the planning and implementation of the project? (3 points)
+
+-   Content: Both Question 1 and Question 2 will each be scored by the following criteria. Point values apply per part.
+
+    -   Is the question well articulated in the presentation? (2 points)
+    -   Can the question be answered with the data? (2 points)
+    -   Do(es) the data visualization(s) answer the question? (2 points)
+    -   Do(es) the data visualization(s) follow good visualization practices? (2 points)
+    -   Is/are the conclusion(s) made based on the visualization(s) justifiable? (2 points)
+    -   Are the limitations carefully considered and articulated? (2 points)
+
+#### Peers (5 points)
+
+-   Content: Is the research question well designed and is the data being used relevant to the research question? (1 point)
+-   Content: Did the team use appropriate visualizations and did they interpret them accurately? (1 point)
+-   Creativity and Critical Thought: Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project? (1 point)
+-   Slides: Are the slides well organized, readable, not full of text, featuring figures with legible labels, legends, etc.? (1 point)
+-   Professionalism: How well did the team present? Does the presentation appear to be well practiced? Are they reading off of a script? Did everyone get a chance to say something meaningful about the project? (1 point)
+
+### Write-up (30 points)
+
+-   Introduction: The introduction provides a clear explanation of the question and the dataset used to answer the question, including a description of all relevant variables in the dataset. (2 points)
+
+Both Question 1 and Question 2 will each be scored by the following criteria.
+Point values apply per part.
+
+-   Justification of approach: The chosen analysis approach and visualizations are clearly explained and justified. (3 points)
+-   Code: Code is correct, easy to read, properly formatted, and properly documented. (3 points)
+-   Visualization: The visualizations are appropriate, easy to read, and properly labeled. (4 points)
+-   Discussion: Discussion of results is clear and correct, and it has some depth without begin excessively long. (4 points)
+
+### Reproducibility, style, and organization (10 points)
+
+-   All required files are provided. R Markdown files knit without issues and reproduce the necessary outputs. (3 points)
+-   Data is in the data folder, with a codebook in the README, and is loaded from this folder in presentation and writeup. (3 points)
+-   Documents are well structured and easy to follow. No extraneous materials. (2 points)
+-   All issues are closed, mostly with specific commits addressing them. (2 points)
 
 ## Guidelines
 
