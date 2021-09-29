@@ -60,25 +60,16 @@ The peer review will be completed during the lab session on Monday, Sep 20.
 On that day teams will have access to the project repos of the two teams whose work they're reviewing.
 The peer review assignments are as follows:
 
-+-------------------------+------------------------------------------+
-| Reviewer                | Reviewee                                 |
-+=========================+==========================================+
-| Ctrl+Alt+Elite          | Mr. Palmer's Penguins, The Outliers      |
-+-------------------------+------------------------------------------+
-| Mr. Palmer's Penguins   | The Outliers, Dorian's Gs                |
-+-------------------------+------------------------------------------+
-| The Outliers            | Dorian's Gs, Team 5 Look Alive           |
-+-------------------------+------------------------------------------+
-| Dorian's Gs             | Team 5 Look Alive, R-mageddon            |
-+-------------------------+------------------------------------------+
-| Team 5 Look Alive       | R-mageddon, 7 Up                         |
-+-------------------------+------------------------------------------+
-| R-mageddon              | 7 Up, The Scatterplots                   |
-+-------------------------+------------------------------------------+
-| 7 Up                    | The Scatterplots, Ctrl+Alt+Elite         |
-+-------------------------+------------------------------------------+
-| The Scatterplots        | Ctrl+Alt+Elite, Mr. Palmer's Penguins    |
-+-------------------------+------------------------------------------+
+| Reviewer              | Reviewee                              |
+|-----------------------|---------------------------------------|
+| Ctrl+Alt+Elite        | Mr. Palmer's Penguins, The Outliers   |
+| Mr. Palmer's Penguins | The Outliers, Dorian's Gs             |
+| The Outliers          | Dorian's Gs, Team 5 Look Alive        |
+| Dorian's Gs           | Team 5 Look Alive, R-mageddon         |
+| Team 5 Look Alive     | R-mageddon, 7 Up                      |
+| R-mageddon            | 7 Up, The Scatterplots                |
+| 7 Up                  | The Scatterplots, Ctrl+Alt+Elite      |
+| The Scatterplots      | Ctrl+Alt+Elite, Mr. Palmer's Penguins |
 
 Teams will develop the review together, with discussion among all team members, but only one team member will submit it as an issue on the project repo.
 To do so, go to the *Issues* tab, click on the green *New issue* button on the top right, and then click on the green *Get started* button for the issue template titled *Peer review*.
@@ -214,17 +205,26 @@ Some of the components are further detailed below.
 
 #### Teaching team (25 points)
 
--   Time management: Did the team divide the time well amongst themselves or got cut off going over time? (2 points)
+-   Time management: Did the team divide the time well amongst themselves or got cut off going over time?
+    (2 points)
 
--   Professionalism: How well did the team present? Does the presentation appear to be well practiced? Did everyone get a chance to say something meaningful about the project? (2 points)
+-   Professionalism: How well did the team present?
+    Does the presentation appear to be well practiced?
+    Did everyone get a chance to say something meaningful about the project?
+    (2 points)
 
--   Teamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together? (3 points)
+-   Teamwork: Did the team present a unified story, or did it seem like independent pieces of work patched together?
+    (3 points)
 
--   Slides: Are the slides well organized, readable, not full of text, featuring figures with legible labels, legends, etc.? (3 points)
+-   Slides: Are the slides well organized, readable, not full of text, featuring figures with legible labels, legends, etc.?
+    (3 points)
 
--   Creativity Critical Thought: Is the project carefully thought out? Does it appear that time and effort went into the planning and implementation of the project? (3 points)
+-   Creativity Critical Thought: Is the project carefully thought out?
+    Does it appear that time and effort went into the planning and implementation of the project?
+    (3 points)
 
--   Content: Both Question 1 and Question 2 will each be scored by the following criteria. Point values apply per part.
+-   Content: Both Question 1 and Question 2 will each be scored by the following criteria.
+    Point values apply per part.
 
     -   Is the question well articulated in the presentation? (1 point)
     -   Can the question be answered with the data? (1 point)
