@@ -14,7 +14,7 @@ Your first task is to come up with a goal for your project.
 Here are a few ideas to help you get started thinking:
 
 -   Build a Shiny app that that has an Instagram-like user interface for applying filters, except not filters but themes for ggplots.
--   Create an R package that provides functionality for a set of ggplot2 themes and/or color palettes.
+-   Create an R package that provides functionality for a set of ggplot2 themes and/or color palettes.[^project-2-1]
 -   Build a generative art system.
 -   Do a deep dive into accessibility for data visualization and build a lesson plan for creating accessible visualizations with ggplot2, R Markdown, and generally within the R ecosystem.
 -   Create an interactive and/or animated spatio-temporal visualization on a topic of interest to you, e.g., redistricting, COVID-19, voter suppression, etc.
@@ -150,19 +150,19 @@ If you're building a package, it should be structured like a package.
 +--------------------------------------------------------+--------------------------------------------------+
 | Total                                                  | 100 pts                                          |
 +========================================================+==================================================+
-| Proposal[^project-2-1]                                 | 10 pts                                           |
+| Proposal[^project-2-2]                                 | 10 pts                                           |
 +--------------------------------------------------------+--------------------------------------------------+
-| Presentation[^project-2-2]                             | 30 pts                                           |
+| Presentation[^project-2-3]                             | 30 pts                                           |
 |                                                        |                                                  |
 |                                                        | (25 pts from teaching team, 5 pts from audience) |
 +--------------------------------------------------------+--------------------------------------------------+
-| Write-up[^project-2-3]                                 | 30 pts                                           |
+| Write-up[^project-2-4]                                 | 30 pts                                           |
 +--------------------------------------------------------+--------------------------------------------------+
-| Reproducibility, style, and organization[^project-2-4] | 10 pts                                           |
+| Reproducibility, style, and organization[^project-2-5] | 10 pts                                           |
 +--------------------------------------------------------+--------------------------------------------------+
-| Within team peer evaluation[^project-2-5]              | 10 pts                                           |
+| Within team peer evaluation[^project-2-6]              | 10 pts                                           |
 +--------------------------------------------------------+--------------------------------------------------+
-| Between team peer evaluation[^project-2-6]             | 10 pts                                           |
+| Between team peer evaluation[^project-2-7]             | 10 pts                                           |
 +--------------------------------------------------------+--------------------------------------------------+
 
 Some of the components are further detailed below.
@@ -246,6 +246,9 @@ Warnings that signal lifecycle changes (e.g., a function is deprecated and there
 
 ## Tips
 
+-   We hope some of you will take the challenge to be adventurous and learn some new skills as part of this project.
+    We're happy to support you along the way, so don't hesitate to ask as many questions as needed!
+
 -   You're working in the same repo as your teammates now, so merge conflicts will happen, issues will arise, and that's fine!
     Commit and push often, and ask questions when stuck.
 
@@ -270,15 +273,18 @@ Warnings that signal lifecycle changes (e.g., a function is deprecated and there
 -   When you're done, review the documents on GitHub to make sure you're happy with the final state of your work.
     Then go get some rest!
 
-[^project-2-1]: Your proposal score will also take into consideration how much you've improved your proposal based on peer feedback.
+[^project-2-1]: Never built an R package before?
+    See <https://r-pkgs.org/whole-game.html> for a great introduction.
 
-[^project-2-2]: A more detailed grading rubric for this component to be added.
+[^project-2-2]: Your proposal score will also take into consideration how much you've improved your proposal based on peer feedback.
 
 [^project-2-3]: A more detailed grading rubric for this component to be added.
 
-[^project-2-4]: Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
+[^project-2-4]: A more detailed grading rubric for this component to be added.
 
-[^project-2-5]: This relates to your contribution to the teamwork and how your team members evaluate this contribution.
+[^project-2-5]: Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
+
+[^project-2-6]: This relates to your contribution to the teamwork and how your team members evaluate this contribution.
     Scores for each teammate will be different for this component of the project grade.
 
-[^project-2-6]: This relates to the quality and quantity of the peer review you provide for other teams.
+[^project-2-7]: This relates to the quality and quantity of the peer review you provide for other teams.
