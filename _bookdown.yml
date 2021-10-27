@@ -18,6 +18,8 @@ rmd_files: [
   "access.Rmd",
   "troubleshooting.Rmd",
   
+  "thank-you.Rmd",
+  
   ]
 
 new_session: yes
