@@ -3,6 +3,6 @@
 The prompt: Make an "ugly" ggplot using the `palmerpenguins::penguins` dataset.
 
 ```{r out.width = "90%", echo = FALSE, fig.alt = "Ugly ggplots."}
-image_paths <- fs::dir_ls("images/ugly-ggplots", glob = ".md", invert = TRUE)
-knitr::include_graphics(image_paths)
+ugly_ggplot_paths <- fs::dir_ls("images/ugly-ggplots", regexp = "*md", invert = TRUE)
+knitr::include_graphics(ugly_ggplot_paths)
 ```
