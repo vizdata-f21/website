@@ -1,8 +1,8 @@
 # Ugly ggplots
 
-The prompt: Make an "ugly" ggplot using the `palmerpenguins::penguins` dataset.
+**The prompt:** Make an "ugly" ggplot using the `palmerpenguins::penguins` dataset.
 
-The results:
+**The results:**
 
 ```{r out.width = "90%", echo = FALSE, fig.alt = "Ugly ggplots."}
 ugly_ggplot_paths <- fs::dir_ls("images/ugly-ggplots", regexp = "*md", invert = TRUE)
