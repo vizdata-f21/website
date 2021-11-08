@@ -82,7 +82,7 @@ On those days teams will have access to the project repos of the two teams whose
 The peer review assignments are as follows:
 
 +----------------------+-----------------------------------------------+
-| Reviewer             | Reviewee                                      |
+| Reviewee             | Reviewer                                      |
 +======================+===============================================+
 | The Alphas           | Tidy Team, Viz Biz                            |
 +----------------------+-----------------------------------------------+
