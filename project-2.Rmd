@@ -81,16 +81,25 @@ The peer reviews will be completed during the lab session on Monday, Nov 8 and M
 On those days teams will have access to the project repos of the two teams whose work they're reviewing.
 The peer review assignments are as follows:
 
-| Reviewer         | Reviewee                        |
-|------------------|---------------------------------|
-| The Alphas       | Tidy Team, Viz Biz              |
-| Tidy Team        | Viz Biz, OutOfTheBoxplots       |
-| Viz Biz          | OutOfTheBoxplots, Stats R Us    |
-| OutOfTheBoxplots | Stats R Us, It's Data Time      |
-| Stats R Us       | It's Data Time, Seven of Hearts |
-| It's Data Time   | Seven of Hearts, Data Wranglers |
-| Seven of Hearts  | Data Wranglers, The Alphas      |
-| Data Wranglers   | The Alphas, Tidy Team           |
++----------------------+-----------------------------------------------+
+| Reviewer             | Reviewee                                      |
++======================+===============================================+
+| The Alphas           | Tidy Team, Viz Biz                            |
++----------------------+-----------------------------------------------+
+| Tidy Team            | Viz Biz, OutOfTheBoxplots                     |
++----------------------+-----------------------------------------------+
+| Viz Biz              | OutOfTheBoxplots, Stats R Us                  |
++----------------------+-----------------------------------------------+
+| OutOfTheBoxplots     | Stats R Us, It's Data Time                    |
++----------------------+-----------------------------------------------+
+| Stats R Us           | It's Data Time, Seven of Hearts               |
++----------------------+-----------------------------------------------+
+| It's Data Time       | Seven of Hearts, Data Wranglers               |
++----------------------+-----------------------------------------------+
+| Seven of Hearts      | Data Wranglers, The Alphas                    |
++----------------------+-----------------------------------------------+
+| Data Wranglers       | The Alphas, Tidy Team                         |
++----------------------+-----------------------------------------------+
 
 Teams will develop the review together, with discussion among all team members, but only one team member will submit it as an issue on the project repo.
 To do so, go to the *Issues* tab, click on the green *New issue* button on the top right, and then click on the green *Get started* button for the issue template titled *Peer review*.
