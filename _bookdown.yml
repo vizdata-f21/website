@@ -19,7 +19,8 @@ rmd_files: [
   "troubleshooting.Rmd",
   
   "thank-you.Rmd",
-  "ugly-ggplots.Rmd"
+  "ugly-ggplots.Rmd",
+  "project-1-outputs.Rmd"
   
   ]
 
