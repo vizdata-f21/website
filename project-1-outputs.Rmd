@@ -1,0 +1,14 @@
+# Project 1 outputs
+
+The assignment for Project 1 can be found [here](https://www.vizdata.org/project-1.html).
+
+Below are links to the projects the teams produced.
+
+-   [Dorian's Gs - Superbowl Ads](https://vizdata-f21.github.io/project-1-dorian_s_gs/)
+-   [Ctrl+Alt+Elite - Twitter Trends from the #DuBoisChallenge](https://vizdata-f21.github.io/project-1-ctrl_alt_elite/)
+-   [Team 5 Look Alive - Is soybean use driving global deforestation?](https://vizdata-f21.github.io/project-1-team_5_look_alive/)
+-   [R-Mageddon - Investigating content and audience reactions to youtube Super Bowl commercials](https://vizdata-f21.github.io/project-1-r_mageddon/)
+-   [The Scatterplots - Quality of US Public Parks](https://vizdata-f21.github.io/project-1-the_scatterplots/)
+-   [7-Up - Visualizing Income Inequality in the United States](https://vizdata-f21.github.io/project-1-7_up/)
+-   [Mr Palmer's Penguins - Beyond the Rings: Analyzing Olympic Athlete and Medal-Winning Country Characteristics](https://vizdata-f21.github.io/project-1-mr_palmer_s_penguins/)
+-   [The Outliers - Superbowl Ads](https://vizdata-f21.github.io/project-1-the_outliers/)
