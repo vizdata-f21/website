@@ -1,5 +1,13 @@
 /* custom environments */
 
+.project{
+  padding: 1em;
+  border: 1pt dotted #a493ba;
+  margin-bottom: 15px;
+}
+
+
+
 .slides {
   padding: 0em 1em 0em 2em;
   position: relative;
