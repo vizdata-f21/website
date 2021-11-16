@@ -9,7 +9,7 @@ Below are projects the teams produced.
 
 ------------------------------------------------------------------------
 
-![](images/project1/dorian_s_gs.png){width="640"}
+[![Assessing Super Bowl ad interactions.](images/project1/dorian_s_gs.png){width="640"}](https://vizdata-f21.github.io/project-1-dorian_s_gs/)
 
 ------------------------------------------------------------------------
 
@@ -18,11 +18,11 @@ Explore the factors that contribute to a greater number of Super Bowl ad views a
 :::
 
 ::: project
-[**Twitter Trends from the #DuBoisChallenge**](https://vizdata-f21.github.io/project-1-dorian_s_gs/) by Ctrl+Alt+Elite
+[**Twitter Trends from the #DuBoisChallenge**](https://vizdata-f21.github.io/project-1-ctrl_alt_elite/) by Ctrl+Alt+Elite
 
 ------------------------------------------------------------------------
 
-![](images/project1/ctrl-alt-elite.png){width="640"}
+[![Twitter Trends from the #DuBoisChallenge comparingNorthern US & Canada and Europe.](images/project1/ctrl-alt-elite.png){width="640"}](https://vizdata-f21.github.io/project-1-ctrl_alt_elite/)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Explore the content and metadata of tweets that used the #DuBoisChallenge hashta
 
 ------------------------------------------------------------------------
 
-![](images/project1/team-5-look-alive.png){width="640"}
+[![Brazil has lost over 30 million hectares of forest since 2000.](images/project1/team-5-look-alive.png){width="640"}](https://vizdata-f21.github.io/project-1-team_5_look_alive/)
 
 ------------------------------------------------------------------------
 
@@ -44,11 +44,11 @@ Explore which countries are seeing the most deforestation within their borders a
 :::
 
 ::: project
-[**Investigating content and audience reactions to youtube Super Bowl commercials**](https://vizdata-f21.github.io/project-1-r_mageddon/) by R-Mageddon
+[**Investigating content and audience reactions to YouTube Super Bowl commercials**](https://vizdata-f21.github.io/project-1-r_mageddon/) by R-Mageddon
 
 ------------------------------------------------------------------------
 
-![](images/project1/r_mageddon.png){width="640"}
+[![Percentage comparison among commercial attributes in Super Bowl commercials over the years.](images/project1/r_mageddon.png){width="640"}](https://vizdata-f21.github.io/project-1-r_mageddon/)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ Explore the trends in how the content and audience preferences of Super Bowl ads
 
 ------------------------------------------------------------------------
 
-![](images/project1/the_scatterplots.gif){width="640"}
+[![Median park size vs. spending per resident.](images/project1/the_scatterplots.gif){width="640"}](https://vizdata-f21.github.io/project-1-the_scatterplots/)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ Explore the Parks Access dataset from the The Trust for Public Land's ParkScore 
 
 ------------------------------------------------------------------------
 
-![](images/project1/7_up.png){width="640"}
+[![Home ownership over time, by race.](images/project1/7_up.png){width="640"}](https://vizdata-f21.github.io/project-1-7_up/)
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Explore data from the Urban Institute and the US Census to understand how home-o
 
 ------------------------------------------------------------------------
 
-![](images/project1/mr_palmer_s_penguins.png){width="640"}
+[![Total medals won vs. GDP per capita.](images/project1/mr_palmer_s_penguins.png){width="640"}](https://vizdata-f21.github.io/project-1-mr_palmer_s_penguins/)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ Explore data on Olympic games from Athens 1896 to Rio 2016 to understanding phys
 
 ------------------------------------------------------------------------
 
-![](images/project1/the_outliers.png){width="640"}
+[![Propoortion of likes received out of total video interactions, by brand.](images/project1/the_outliers.png){width="640"}](https://vizdata-f21.github.io/project-1-the_outliers/)
 
 ------------------------------------------------------------------------
 
